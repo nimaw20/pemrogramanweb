@@ -100,6 +100,14 @@ nav ul li a:hover {
   display: none;
 }
 
+footer {
+  text-align: center;
+  padding: 1rem;
+  background: #ff99b9;
+  color: white;
+  margin-top: 2rem;
+}
+
 
 
 

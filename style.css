@@ -88,6 +88,10 @@ nav ul li a:hover {
   cursor: pointer;
 }
 
+.tab.active {
+  background: #d63384;
+}
+
 
 
 

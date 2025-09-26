@@ -79,6 +79,16 @@ nav ul li a:hover {
   margin: 1rem 0;
 }
 
+.tab {
+  padding: 0.5rem 1rem;
+  border: none;
+  background: #f8a5c2;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+
 
 
 

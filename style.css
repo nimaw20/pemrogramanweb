@@ -41,6 +41,9 @@ nav ul li a {
   font-weight: 500;
 }
 
+nav ul li a:hover {
+  text-decoration: underline;
+}
 
 
 

@@ -29,6 +29,12 @@ nav .logo {
   color: white;
 }
 
+nav ul {
+  list-style: none;
+  display: flex;
+  gap: 1rem;
+}
+
 
 
 

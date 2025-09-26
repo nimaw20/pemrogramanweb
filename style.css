@@ -45,6 +45,14 @@ nav ul li a:hover {
   text-decoration: underline;
 }
 
+.about {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  padding: 2rem;
+  align-items: flex-start;
+}
+
 
 
 

@@ -10,3 +10,10 @@ body {
   color: #333;
   line-height: 1.6;
 }
+
+/* Navbar */
+header {
+  background: #ff99b9;
+  padding: 1rem 2rem;
+}
+

@@ -130,3 +130,9 @@ footer {
   display: none;
   animation: fadeIn 0.5s ease-in-out;
 }
+
+#tab-hobby:checked #hobby,
+#tab-experience:checked #experience,
+#tab-education:checked #education {
+  display: block;
+}

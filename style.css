@@ -6,6 +6,7 @@
 
 body {
   font-family: Arial, sans-serif;
+  display: flex;
   background-color: #ffd6e0;
   color: #333;
   line-height: 1.6;

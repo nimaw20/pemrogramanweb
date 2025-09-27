@@ -84,21 +84,6 @@ main {
   margin-bottom: 20px;
 }
 
-.tab {
-  background: none;
-  border: none;
-  font-size: 16px;
-  cursor: pointer;
-  padding: 5px 10px;
-  border-bottom: 2px solid transparent;
-  transition: 0.3s;
-}
-
-.tab-content {
-  display: none;
-  animation: fadeIn 0.5s ease-in-out;
-}
-
 footer {
   text-align: center;
   padding: 10px;

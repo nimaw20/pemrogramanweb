@@ -13,10 +13,9 @@ body {
   color: #333;
 }
 
-/* Navbar */
 header {
   background: #ff99b9;
-  padding: 1rem 2rem;
+  padding: 15px 30px;
 }
 
 nav {

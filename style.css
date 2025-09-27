@@ -73,6 +73,7 @@ main {
 }
 
 .about-content h2 {
+  font-size: 30px;
   color: #d63384;
   margin-bottom: 1rem;
 }

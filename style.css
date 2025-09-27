@@ -90,12 +90,13 @@ main {
 }
 
 .tab {
-  padding: 0.5rem 1rem;
+  background: none;
   border: none;
-  background: #f8a5c2;
-  color: white;
-  border-radius: 5px;
+  font-size: 16px;
   cursor: pointer;
+  padding: 5px 10px;
+  border-bottom: 2px solid transparent;
+  transition: 0.3s;
 }
 
 .tab.active {

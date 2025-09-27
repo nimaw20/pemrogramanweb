@@ -118,4 +118,10 @@ footer {
   transition: 0.3s;
 }
 
-
+#tab-hobby:checked + .tab,
+#tab-experience:checked + .tab,
+#tab-education:checked + .tab {
+  border-bottom: 2px solid #d10068;
+  color: #d10068;
+  font-weight: bold;
+}

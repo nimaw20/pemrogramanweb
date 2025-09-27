@@ -7,6 +7,8 @@
 body {
   font-family: Arial, sans-serif;
   display: flex;
+  flex-direction: column;
+  min-height: 100vh;
   background-color: #ffd6e0;
   color: #333;
   line-height: 1.6;

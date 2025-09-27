@@ -79,7 +79,8 @@ main {
 }
 
 .about-content p {
-  margin-bottom: 1rem;
+  margin-bottom: 20px;
+  line-height: 1.6;
 }
 
 .tabs {

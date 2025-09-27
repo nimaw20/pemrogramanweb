@@ -110,6 +110,10 @@ main {
   animation: fadeIn 0.5s ease-in-out;
 }
 
+.tab-content.active {
+  display: block;
+}
+
 footer {
   text-align: center;
   padding: 1rem;

@@ -50,13 +50,13 @@ nav ul li a:hover {
 
 main {
   flex: 1;
-  padding: 40px;
+  padding: 2rem;
 }
 
 .about {
   display: flex;
   flex-wrap: wrap;
-  gap: 2rem;
+  gap: 40px;
   padding: 2rem;
   align-items: flex-start;
 }

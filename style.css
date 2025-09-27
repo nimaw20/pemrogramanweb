@@ -116,8 +116,8 @@ footer {
   animation: fadeIn 0.5s ease-in-out;
 }
 
-#tab-hobby:checked ~ #hobby,
-#tab-experience:checked ~ #experience,
-#tab-education:checked ~ #education {
+#tab-hobby:checked ~ .tab-content#hobby,
+#tab-experience:checked ~ .tab-content#experience,
+#tab-education:checked ~ .tab-content#education {
   display: block;
 }

@@ -100,7 +100,9 @@ main {
 }
 
 .tab.active {
-  background: #d63384;
+  border-bottom: 2px solid #d10068;
+  color: #d10068;
+  font-weight: bold;
 }
 
 .tab-content {
